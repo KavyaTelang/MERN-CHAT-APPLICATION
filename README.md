@@ -9,7 +9,7 @@
 
 **BATCH DURATION** : January 20th, 2025 to March 5th, 2025
 
-**MENTOR NAME** : Neela Santosh
+**MENTOR NAME** : Neela Santhosh
 
 ### **Project Overview**  
 The chat app includes features such as real-time messaging, user online status, and authentication. The UI is styled with Tailwind CSS and Daisy UI, and the backend is structured with a clean and modularized approach.  
